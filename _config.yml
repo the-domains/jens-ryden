@@ -1,0 +1,28 @@
+name: Jens Rydén
+favicon: null
+layout_spectrum: 0.20242017367854714
+typography_spectrum: 0.6311293528415263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4898052092175931
+  lightness: 0.14281263202428818
+  saturation: 0.6490051518194377
+  rhythmicContrast: 0.2547341014724225
+purpose: []
